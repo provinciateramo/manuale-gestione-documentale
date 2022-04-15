@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Manuale di gestione del protocollo informatico, del documento informatico e della conservazione della Provincia di Teramo 
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
